@@ -17,5 +17,7 @@ int main(int argc, char const *argv[])
     printf("O cosseno do angulo de medida %f radianos eh %f\n", angulo, cosseno_angulo);
     printf("A tangente do angulo de medida %f radianos eh %f\n", angulo,tangente_angulo);
 
+    system("pause");
+
     return 0;
 }
